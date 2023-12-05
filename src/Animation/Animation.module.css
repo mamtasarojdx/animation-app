@@ -1,0 +1,222 @@
+.backAni {
+    background-color: #2dc7bb;
+    height: 710px;
+
+}
+
+.animation {
+    box-shadow: 0 0 10px rgb(223 216 216);
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 80px;
+    height: 210px;
+    width: 95%;
+}
+
+.animation1 {
+    display: inline-block;
+    margin: 20px 30px;
+    border-radius: 50%;
+    width: 231px;
+    position: relative;
+   
+}
+
+
+.animation2 {
+    display: inline-block;
+    margin: 0px 30px 25px 30px;
+    border-radius: 50%;
+    width: 231px;
+    color: gray;
+   
+}
+
+.animation4 {
+    display: inline-block;
+    margin: 0px 30px 25px 30px;
+    border-radius: 50%;
+    width: 238px;
+    color: gray;
+  
+}
+
+.rightArrow {
+    position: absolute;
+    font-size: 25px;
+    top: 100px;
+    left: 110px;
+}
+
+.rightArrow1 {
+    position: absolute;
+    font-size: 25px;
+    top: 100px;
+    left: 550px;
+}
+
+.rightArrow2 {
+    position: absolute;
+    font-size: 25px;
+    top: 100px;
+    right: 520px;
+}
+
+
+
+.rightArrow3 {
+    position: absolute;
+    font-size: 25px;
+    top: 390px;
+    left: 110px;
+}
+
+.rightArrow4 {
+    position: absolute;
+    font-size: 25px;
+    top: 390px;
+    left: 550px;
+}
+
+.rightArrow5 {
+    position: absolute;
+    font-size: 25px;
+    top: 390px;
+    right: 520px;
+}
+
+.cont {
+    position: relative;
+}
+
+.overlay{
+    transform: rotate(90deg);
+    position: absolute;
+    top: -40px;
+    left: 25px;
+    width: 50px;
+}
+
+.animationH1{
+    background-position: left;
+    border-radius: 10px;
+    margin-top: 80px;
+    height: 210px;
+    width: 95%;
+    /* background-color: rgb(151, 238, 222); */
+    background: linear-gradient(to left, white 50%, rgb(151, 238, 222) 50%) right;
+    background-size: 200%;
+    transition: .2s linear;
+}
+.animationH2{
+    background-position: left;
+    border-radius: 10px;
+    margin-top: 80px;
+    height: 210px;
+    width: 95%;
+    background: linear-gradient(to left, white 50%, #acc8e6 50%) right;
+    background-size: 200%;
+    transition: .2s linear;
+    background-color: #acc8e6;
+}
+.animationH3{
+    background-position: left;
+    border-radius: 10px;
+    margin-top: 80px;
+    height: 210px;
+    width: 95%;
+    background: linear-gradient(to left, white 50%, #f2f3cc 50%) right;
+    background-size: 200%;
+    transition: .2s linear;
+    background-color: #f2f3cc;
+}
+.animationH4{
+    background-position: left;
+    border-radius: 10px;
+    margin-top: 80px;
+    height: 210px;
+    width: 95%;
+    background: linear-gradient(to left, white 50%, #dbccf3 50%) right;
+    background-size: 200%;
+    transition: .2s linear;
+    background-color: #dbccf3;
+}
+
+.animationH5{
+    background-position: left;
+    border-radius: 10px;
+    margin-top: 80px;
+    height: 210px;
+    width: 95%;
+    background: linear-gradient(to left, white 50%, #ccf3cf 50%) right;
+    background-size: 200%;
+    transition: .2s linear;
+    background-color: #ccf3cf;
+}
+.animationH6{
+    background-position: left;
+    border-radius: 10px;
+    margin-top: 80px;
+    height: 210px;
+    width: 95%;
+    background: linear-gradient(to left, white 50%, #f3ccd1 50%) right;
+    background-size: 200%;
+    transition: .2s linear;
+    background-color: #f3ccd1;
+}
+.animationH1:hover {
+    background-position: left;
+    border-radius: 10px;
+    margin-top: 80px;
+    height: 210px;
+    width: 95%;
+    background-position: left;
+}
+
+
+
+.animationH2:hover {
+    background-position: left;
+    border-radius: 10px;
+    margin-top: 80px;
+    height: 210px;
+    width: 95%;
+    background-position: left;
+   
+}
+.animationH3:hover {
+    background-position: left;
+    border-radius: 10px;
+    margin-top: 80px;
+    height: 210px;
+    width: 95%;
+    background-position: left;
+   
+}
+.animationH4:hover {
+    background-position: left;
+    border-radius: 10px;
+    margin-top: 80px;
+    height: 210px;
+    width: 95%;
+    background-position: left;
+    
+}
+.animationH5:hover {
+    background-position: left;
+    border-radius: 10px;
+    margin-top: 80px;
+    height: 210px;
+    width: 95%;
+    background-position: left;
+   
+}
+.animationH6:hover {
+    background-position: left;
+    border-radius: 10px;
+    margin-top: 80px;
+    height: 210px;
+    width: 95%;
+    background-position: left;
+   
+}
